@@ -1,0 +1,24 @@
+package main
+
+import (
+	"fmt",
+	"math",
+)
+
+func main() {
+	func T() float64 {
+		fes := W()
+		return 6 / fes
+	}
+	
+	func W() float64 {
+		res := M()
+	
+		return math.Sqrt( k / res)
+	}
+	
+	func M() float64{
+		return p * v
+	}
+	​fmt.Println(math.Sqrt(9))
+}
